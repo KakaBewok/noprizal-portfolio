@@ -1,0 +1,32 @@
+{
+   "portfolio": [
+    {
+        "name": "Movie Catalogue PWAs",
+        "image": "./dist/img/portfolio/movie-catalogue.jpg",
+        "tech": "Native Javascript",
+        "feature": "Progressive Web Apps (PWAs) dengan fitur App Manifest, Service Worker, IndexDb, Web Socket dan Push Notification.",
+        "url": "https://clinquant-raindrop-128443.netlify.app/#/now-playings"
+    },
+    {
+        "name": "Resto Catalogue PWAs",
+        "image": "./dist/img/portfolio/resto_app.jpg",
+        "tech": "Native Javascript",
+        "feature": "Progressive Web Apps (PWAs) dengan fitur App Manifest, Service Worker dan IndexDb",
+        "url": "https://grand-marzipan-4b5d23.netlify.app/#/home"
+    },
+    {
+        "name": "Homestay",
+        "image": "./dist/img/portfolio/homestay-app.jpg",
+        "tech": "Reactjs",
+        "feature": "Pencarian Homestay dengan Google Map.",
+        "url": "https://tangerine-llama-af494e.netlify.app/"
+    },
+    {
+        "name": "Tuku Mangan",
+        "image": "./dist/img/portfolio/tuku-mangan.jpg",
+        "tech": "HTML, CSS, Javascript & Bootstrap",
+        "feature": "Menu order foods",
+        "url": "https://kakabewok.github.io/resto-tuku-mangan/"
+    }
+   ]
+}
